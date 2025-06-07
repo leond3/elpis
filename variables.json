@@ -1,5 +1,5 @@
 {
-    "version": "2.9.7",
+    "version": "2.9.8",
     "whitelist": [
         "65EF5C1F768C9EEB9B6E195CBD55C062A7CA340657A6E60E16E0D0DA24BDBD63",
         "B075F398478C04C9F3D73420F407A164D7EFD0C852A54786BE3F91F5B38B081B",
@@ -18,7 +18,7 @@
         "B86D4B2EA77B613408C568DE6AF1C2AF9082C53BF4AB8F8097F46B77B7E5990C",
         "8BB59EB422F4AD51171ADB600339561492F47F620BAFA671533FC42B96CEDD81"
     ],
-    "chat": "wss://mod-backend.onrender.com/api/elpis/websocket/chat",
+    "chat": "wss://mod-backend.onrender.com",
     "ping": "https://mod-backend.onrender.com/api/ping",
     "secret2": "tf4g3gn8372gxe67jug2qxc"
 }
