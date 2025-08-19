@@ -19,6 +19,6 @@
         "8BB59EB422F4AD51171ADB600339561492F47F620BAFA671533FC42B96CEDD81"
     ],
     "chat": "wss://mod-backend.onrender.com",
-    "ping": "https://mod-backend.onrender.com/api/ping",
+    "ping": "https://mod-backend.onrender.com/api/v1/ping",
     "secret2": "tf4g3gn8372gxe67jug2qxc"
 }
